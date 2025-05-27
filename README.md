@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eliandro4
-- 👀 I’m interested in programming, translation and learning new languages
+- 👀 I’m interested in programming, translating and learning new languages
 - 🌱 I’m currently learning russian
 - 💞️ I’m looking to collaborate on the deltarune ch3&4 portuguese translation
 
